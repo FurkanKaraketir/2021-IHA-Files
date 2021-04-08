@@ -1,0 +1,13 @@
+Yapılan Değişiklikleri Sunucuya Aktarmak için sırasıyla
+
+git add .
+
+git commit -m "Buraya istediğiniz değişiklikleri yazabilirsiniz"
+
+git push origin master
+
+
+
+Yapılmış bir değişikliği sunucudan almak için
+
+git fetch origin
