@@ -1,0 +1,16 @@
+[StartTime]
+Cage-Static 3.MFC=3s
+[SolverState]
+Cage-Static 3.MFC=2
+[MainFrame]
+Cage-Static 3.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Cage-Static 3.MFC=No
+[SolverType]
+Cage-Static 3.MFC=Linear Analysis
+[StudyType]
+Cage-Static 3.MFC=0
+[StudyName]
+Cage-Static 3.MFC=Static 3
+[Solver]
+Cage-Static 3.MFC=Sparse
